@@ -1,0 +1,16 @@
+body{ font-family: Arial, sans-serif; margin:0; padding:0; }
+.nav{ display:flex; justify-content:space-between; align-items:center; padding:10px 20px; background:#0b5; color:#fff }
+.nav .links button{ margin-left:8px }
+.container{ padding:20px }
+.list{ list-style:none; padding:0 }
+.card{ border:1px solid #ddd; padding:10px; margin-bottom:8px; border-radius:4px }
+.card-title{ font-weight:600 }
+.card-meta{ color:#666; font-size:12px }
+.form label{ display:block; margin-bottom:8px }
+.form input, .form textarea{ width:100%; padding:6px; margin-top:4px }
+.actions button{ margin-right:8px }
+.stat{ margin:6px 0 }
+.analytics .bar-row{ display:flex; align-items:center; gap:8px; margin-bottom:6px }
+.analytics .label{ width:140px }
+.analytics .bar{ height:18px; background:#0b5; border-radius:4px }
+.danger{ background:#f66; color:#fff }
